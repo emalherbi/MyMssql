@@ -1,0 +1,15 @@
+{
+    "name": "emalherbi/mymssql",
+    "description": "My Mssql Pdo (MSSQL or SQLSRV)",
+    "license": "MIT",
+    "type": "library",
+    "homepage": "https://github.com/emalherbi/MyMssql",
+    "require": {
+        "php": ">= 5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyMssql\\": "src"
+        }
+    }
+}
